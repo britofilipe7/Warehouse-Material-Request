@@ -1,0 +1,3 @@
+# Warehouse-Material-Request
+### Java GUI program to request material from production plant to warehouse
+The program is applicable in a production environment where all the computers in a factory share a common folder to run the program. Each computer can open an instance of the program and interact with a databse that records all the material requests and the state of the requests. Each user/production area can have its own login credentials and the request is always associated with it, in order to facilitate the supply of the material from the warehouse operators. The database keeps a record of the request origin, the material part number/designation, the request date, the request status and the supply date. The users can also check the request history.
